@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+    
+}
+h1{
+    align-self: center;
+    color: aqua;
+    background-color: black;
+}
+p{
+    
+    color:greenyellow;
+    background-color: black;
+    text-decoration: blueviolet;
+    font-size: 20px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    border:4px solid crimson;
+}
